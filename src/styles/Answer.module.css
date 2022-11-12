@@ -1,0 +1,48 @@
+.btn {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    margin-right: 20px;
+    color: #293264;
+    border: solid 1px #4D5B9E;
+    background-color: #F5F7FB;
+    border-radius: 16px;
+    font-weight: bold;
+}
+.btn_clicked {
+    font-family: 'Inter', sans-serif;
+    background-color: #D6DBF5;
+    border: solid 1px #F5F7FB;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 16px;
+}
+.btn_correct {
+    font-family: 'Inter', sans-serif;
+    background-color: #94D7A2;
+    border: solid 1px #F5F7FB;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 16px;
+}
+.btn_wrong {
+    font-family: 'Inter', sans-serif;
+    background-color: #F8BCBC;
+    border: solid 1px #F5F7FB;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 16px;
+}
+.btn_notclicked{
+    font-family: 'Inter', sans-serif;
+    background-color: transparent;
+    border: solid 1px #293264;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #293264;
+    opacity: 0.5;
+    border-radius: 16px;
+}
