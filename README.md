@@ -1,6 +1,6 @@
 # Quizzical
 
-Projeto de estudo introdutório de React.
+Projeto de estudo introdutório de React. Teste seus conhecimentos respondendo perguntas aleatórias sobre assuntos diversos!
 
 #### Conceitos aplicados:
 * React hooks (useState, useEffect);
